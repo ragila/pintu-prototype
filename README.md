@@ -2,6 +2,7 @@
 Actual Apps | Clone Apps |
 --- | --- | 
 ![](https://github.com/ragila/pintu-prototype/blob/main/assets/images/actual_apps.gif) | ![](https://github.com/ragila/pintu-prototype/blob/main/assets/images/clone_apps.gif)|
+![](https://github.com/ragila/pintu-prototype/blob/main/assets/images/detail_actual.gif)|![](https://github.com/ragila/pintu-prototype/blob/main/assets/images/detail_clone.gif)|
 
 
 ## Installation
