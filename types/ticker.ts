@@ -1,0 +1,32 @@
+export interface DataTicker {
+    "ask": number;
+    "ask_size": number; 
+    "bid": number; 
+    "bid_size": number; 
+    "change": number; 
+    "dtm": number; 
+    "feed": string; 
+    "funding_rate": number; 
+    "funding_rate_prediction": number; 
+    "high": number;
+    "index": number; 
+    "last": number;
+    "leverage": string;
+    "low": number; 
+    "markPrice": number; 
+    "maturityTime": number; 
+    "next_funding_rate_time": number; 
+    "open": number; 
+    "openInterest": number; 
+    "pair": string;
+    "post_only": false; 
+    "premium": number; 
+    "product_id": string; 
+    "relative_funding_rate": number; 
+    "relative_funding_rate_prediction": number; 
+    "suspended": boolean; 
+    "tag": string; 
+    "time": number; 
+    "volume": number; 
+    "volumeQuote": number;
+}
